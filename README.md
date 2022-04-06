@@ -1,2 +1,2 @@
 # Mobile-App
- Reactive Native App for Comp3330
+ Reactive Native App for Comp3330 testing
