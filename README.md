@@ -1,2 +1,2 @@
-# Mobile-App
- Reactive Native App for Comp3330 testing
+# HKUSearchU
+This is a backup of the group project that I worked on. We created a mobile app called HKUSearchU using Reactive Native.
